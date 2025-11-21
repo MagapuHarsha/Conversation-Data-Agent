@@ -1,0 +1,14 @@
+Flask
+pandas
+gunicorn
+python-dotenv
+matplotlib
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-aiplatform
+google-api-core
+numpy
+cloud-sql-python-connector[pymysql]
+pymysql
+sqlalchemy
+sqlparse
